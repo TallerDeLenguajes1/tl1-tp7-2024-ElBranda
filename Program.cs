@@ -7,7 +7,7 @@ Calculadora calculadora = new Calculadora();
 while (true) {
     Console.WriteLine("1. +");
     Console.WriteLine("2. -");
-    Console.WriteLine("3. *");
+    Console.WriteLine("3. *"); //a
     Console.WriteLine("4. /");
     Console.WriteLine("5. CLR");
     Console.WriteLine("6. RES");
